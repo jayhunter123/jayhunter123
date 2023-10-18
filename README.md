@@ -1,4 +1,4 @@
-
+- neglected profile. 
 - 👋 Hi, I’m @jayhunter123
 - 👀 I’m interested in existing coding projects
 - 🌱 I’m currently advancing more skills in Mernstack & GPTAI
